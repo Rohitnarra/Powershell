@@ -1,0 +1,1 @@
+This folder consists of Powershell scripts, this folder is made a git repo and the git repository has two branches: main and Bugfix, the main branch is merged with changes from bugfix branch.
